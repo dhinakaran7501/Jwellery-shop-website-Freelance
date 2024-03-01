@@ -1,0 +1,117 @@
+{
+  "ourProductsList": [
+    {
+      "itemImageURL": "../images/ourproducts/wedding.png",
+      "itemName": "Rings"
+    },
+    {
+      "itemImageURL": "../images/ourproducts/value.png",
+      "itemName": "Harams"
+    },
+    {
+      "itemImageURL": "../images/ourproducts/jewelry.png",
+      "itemName": "Necklace"
+    },
+    {
+      "itemImageURL": "../images/ourproducts/clock.png",
+      "itemName": "Antique"
+    },
+    {
+      "itemImageURL": "../images/ourproducts/earrings.png",
+      "itemName": "Earrings"
+    },
+    {
+      "itemImageURL": "../images/ourproducts/bangle.png",
+      "itemName": "Bangles"
+    },
+    {
+      "itemImageURL": "../images/ourproducts/earings.png",
+      "itemName": "Jhumkas"
+    },
+    {
+      "itemImageURL": "../images/ourproducts/bracelet.png",
+      "itemName": "Bracelets"
+    }
+  ],
+
+  "data": [
+    {
+      "id": 1,
+      "category": "Rings",
+      "imgPath": "../images/productimages/rings/ring1.jpg",
+      "productname": "Irresistible Gemstone Rings",
+      "strikePrice": 18562,
+      "price": 16350,
+      "starCount": 4,
+      "fastDelivery": false,
+      "soldout": false,
+      "isNew": true,
+      "isDeliveryFast": true
+    },
+    {
+      "id": 2,
+      "category": "Rings",
+      "imgPath": "../images/productimages/rings/ring2.jpg",
+      "productname": "Consummate Diamond Rings",
+      "strikePrice": 52035,
+      "price": 49111,
+      "starCount": 4,
+      "fastDelivery": false,
+      "soldout": false,
+      "isNew": true,
+      "isDeliveryFast": false
+    },
+    {
+      "id": 3,
+      "category": "Rings",
+      "imgPath": "../images/productimages/rings/ring3.jpg",
+      "productname": "Finest Diamond Rings",
+      "strikePrice": 18069,
+      "price": 13307,
+      "starCount": 4,
+      "fastDelivery": false,
+      "soldout": false,
+      "isNew": true,
+      "isDeliveryFast": false
+    },
+    {
+      "id": 4,
+      "category": "Rings",
+      "imgPath": "../images/productimages/rings/ring4.jpg",
+      "productname": "Funky Designer Gold Rings",
+      "strikePrice": 32014,
+      "price": 29117,
+      "starCount": 4,
+      "fastDelivery": false,
+      "soldout": false,
+      "isNew": true,
+      "isDeliveryFast": true
+    },
+    {
+      "id": 5,
+      "category": "Rings",
+      "imgPath": "../images/productimages/rings/ring5.jpg",
+      "productname": "Pleasing Designer Gold Rings",
+      "strikePrice": 23568,
+      "price": 21270,
+      "starCount": 4,
+      "fastDelivery": false,
+      "soldout": false,
+      "isNew": true,
+      "isDeliveryFast": false
+    },
+    {
+      "id": 6,
+      "category": "Rings",
+      "imgPath": "../images/productimages/rings/ring3.jpg",
+      "productname": "Finest Diamond Rings",
+      "strikePrice": 18069,
+      "price": 13307,
+      "starCount": 4,
+      "fastDelivery": false,
+      "soldout": false,
+      "isNew": false,
+      "isDeliveryFast": false
+    }
+  ]
+}
