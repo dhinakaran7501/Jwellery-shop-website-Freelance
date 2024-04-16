@@ -1,13 +1,23 @@
 import React from "react";
-import api from "../../../../../_mock/allDatas.json";
 import "../../LandingPage.scss";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import { useSelector, useDispatch } from "react-redux";
+import {
+  handleApplyFilters,
+  handleCategorys,
+  handleOtherCatergory,
+  handlePriceRanges,
+  handleStars,
+} from "../../../../Redux/Slice";
+import { Link } from "react-router-dom";
 
 const ProductList1 = () => {
-  let json = api.ourProductsList;
-
+  let { ourProductsLists, category, star, priceRange } = useSelector(
+    (state) => state.jwelleryShop
+  );
+  const dispatch = useDispatch();
   // React Slick
   let settings = {
     dots: false,
@@ -17,6 +27,7 @@ const ProductList1 = () => {
     autoplay: true,
     autoplaySpeed: 3000,
     pauseOnHover: true,
+    arrows: false,
     responsive: [
       {
         breakpoint: 1024,
@@ -44,25 +55,30 @@ const ProductList1 = () => {
       },
     ],
   };
+  const handleproductlist = (value) => {
+    dispatch(handleOtherCatergory(value));
+    dispatch(handleStars(0));
+    dispatch(handlePriceRanges([5000, 100000]));
 
-  // let settings = {
-  //   dots: true,
-  //   infinite: true,
-  //   speed: 500,
-  //   slidesToShow: 3,
-  //   slidesToScroll: 1,
-  // };
+    dispatch(handleApplyFilters());
+  };
 
   return (
     <div id="OurProduct">
       <Slider {...settings}>
-        {json.map((values, index) => (
-          <div className="item-list" key={index}>
-            <div className="img_sec">
-              <img src={values.itemImageURL} alt={values.itemName} />
+        {ourProductsLists.map((values, index) => (
+          <Link
+            to="/Products"
+            onClick={() => handleproductlist(values.itemName)}
+            key={index}
+          >
+            <div className="item-list">
+              <div className="img_sec">
+                <img src={values.itemImageURL} alt={values.itemName} />
+              </div>
+              <p>{values.itemName}</p>
             </div>
-            <p>{values.itemName}</p>
-          </div>
+          </Link>
         ))}
       </Slider>
     </div>

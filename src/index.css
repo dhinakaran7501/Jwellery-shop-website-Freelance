@@ -4,11 +4,24 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap");
 
+:root {
+  /* Default colors */
+  --common-background: #f0f8ff38;
+  --site-blue: #4f3267;
+
+  /* App color */
+  --white-color: #fff;
+  --text-blue-color: rgb(79, 50, 103);
+  --text-dimGray-color: rgb(173, 169, 173);
+  --text-red-color: rgb(235, 79, 92);
+  --text-green-color: #6ec840;
+  --border-color: #ded8d8;
+}
+
 body {
   margin: 0;
   font-family: "Jost", sans-serif;
-  background-color: #f0f8ff38;
-  /* background-color: rgb(247 241 241 / 42%); */
+  background-color: var(--common-background);
 }
 
 code {
@@ -24,8 +37,8 @@ code {
 
 a {
   margin: 0;
-  text-decoration: none;
-  color: initial;
+  text-decoration: none !important;
+  color: initial !important;
 }
 
 ul,
@@ -38,10 +51,14 @@ h6,
 p,
 a {
   padding: 0;
-  margin: 0;
+  margin: 0 !important;
 }
 
 li {
   margin: 0;
   list-style-type: none;
+}
+
+::-webkit-scrollbar {
+  display: none;
 }

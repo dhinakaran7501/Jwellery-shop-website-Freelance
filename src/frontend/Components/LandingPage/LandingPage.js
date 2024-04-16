@@ -6,6 +6,9 @@ import Newcollection from "./NewCollection/Newcollection";
 import ServicePage from "./Services/Service";
 import Footer from "../Footer/Footer";
 import ResponsiveProductList from "./Content/ProductList/ResponsiveProductList";
+import "bootstrap/dist/css/bootstrap.css";
+import "bootstrap/dist/js/bootstrap.js";
+import RecentlyViewed from "./RecentlyViewed/RecentlyViewed";
 
 const LandingPage = () => {
   return (
@@ -16,7 +19,7 @@ const LandingPage = () => {
       <ResponsiveProductList />
       <Newcollection />
       <ServicePage />
-      <Newcollection />
+      <RecentlyViewed />
       <Footer />
     </>
   );

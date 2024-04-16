@@ -18,20 +18,20 @@ const Footer = () => {
         <div className="getToKnowUs">
           <h6>Get to know us</h6>
           <ul>
-            <Link href="#">About Us</Link>
-            <Link href="#">Contact Us</Link>
-            <Link href="#">Careers</Link>
-            <Link href="#">Mission and Vision</Link>
+            <Link>About Us</Link>
+            <Link>Contact Us</Link>
+            <Link>Careers</Link>
+            <Link>Mission and Vision</Link>
           </ul>
         </div>
         <div className="policies">
           <h6>Policies</h6>
           <ul>
-            <Link href="#">Disclaimer</Link>
-            <Link href="#">Privacy Policy</Link>
-            <Link href="#">Terms & Conditions</Link>
-            <Link href="#">Return & Exchange</Link>
-            <Link href="#">Shipping Policy</Link>
+            <Link>Disclaimer</Link>
+            <Link>Privacy Policy</Link>
+            <Link>Terms & Conditions</Link>
+            <Link>Return & Exchange</Link>
+            <Link>Shipping Policy</Link>
           </ul>
         </div>
         <div className="copyright_socialmedias">

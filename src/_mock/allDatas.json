@@ -25,10 +25,6 @@
       "itemName": "Bangles"
     },
     {
-      "itemImageURL": "../images/ourproducts/earings.png",
-      "itemName": "Jhumkas"
-    },
-    {
       "itemImageURL": "../images/ourproducts/bracelet.png",
       "itemName": "Bracelets"
     }
@@ -39,14 +35,40 @@
       "id": 1,
       "category": "Rings",
       "imgPath": "../images/productimages/rings/ring1.jpg",
-      "productname": "Irresistible Gemstone Rings",
+      "productname": "The Adalina Gold Ring",
       "strikePrice": 18562,
       "price": 16350,
-      "starCount": 4,
-      "fastDelivery": false,
+      "starCount": 1,
       "soldout": false,
-      "isNew": true,
-      "isDeliveryFast": true
+      "isNew": false,
+      "isDeliveryFast": true,
+      "details": [
+        {
+          "img": [
+            "../images/productimages/rings/ring1.jpg",
+            "../images/productimages/rings/ring2.jpg",
+            "../images/productimages/rings/ring3.jpg",
+            "../images/productimages/rings/ring4.jpg"
+          ],
+          "offerCount": 10,
+          "availableOffers": [
+            "Bank Offer 5% Cashback on Axis Bank Card",
+            "Special PriceExtra ₹400 off(price inclusive of discount)",
+            "Freebie CoinDCX Get Bitcoin Worth ₹201",
+            "Get Google gift card at just ₹499"
+          ],
+          "metal": "Yellow Gold",
+          "metalPurity": "22KT",
+          "productWeight": "5 g",
+          "metalCertification": "BIS Hallmark",
+          "productCode": "OOOCB00055MM-MCY2017",
+          "brand": "Company Name",
+          "bandwidth": 4,
+          "expectedShippingDate": "15 Apr 2024",
+          "lifetimeExchange": "Applicable",
+          "lifetimeBuyback": "Applicable"
+        }
+      ]
     },
     {
       "id": 2,
@@ -55,11 +77,37 @@
       "productname": "Consummate Diamond Rings",
       "strikePrice": 52035,
       "price": 49111,
-      "starCount": 4,
-      "fastDelivery": false,
+      "starCount": 2,
       "soldout": false,
       "isNew": true,
-      "isDeliveryFast": false
+      "isDeliveryFast": false,
+      "details": [
+        {
+          "img": [
+            "../images/productimages/rings/ring1.jpg",
+            "../images/productimages/rings/ring2.jpg",
+            "../images/productimages/rings/ring3.jpg",
+            "../images/productimages/rings/ring4.jpg"
+          ],
+          "offerCount": 10,
+          "availableOffers": [
+            "Bank Offer 5% Cashback on Axis Bank Card",
+            "Special PriceExtra ₹400 off(price inclusive of discount)",
+            "Freebie CoinDCX Get Bitcoin Worth ₹201",
+            "Get Google gift card at just ₹499"
+          ],
+          "metal": "Yellow Gold",
+          "metalPurity": "22KT",
+          "productWeight": "5 g",
+          "metalCertification": "BIS Hallmark",
+          "productCode": "OOOCB00055MM-MCY2017",
+          "brand": "Company Name",
+          "bandwidth": 4,
+          "expectedShippingDate": "15 Apr 2024",
+          "lifetimeExchange": "Applicable",
+          "lifetimeBuyback": "Applicable"
+        }
+      ]
     },
     {
       "id": 3,
@@ -68,11 +116,37 @@
       "productname": "Finest Diamond Rings",
       "strikePrice": 18069,
       "price": 13307,
-      "starCount": 4,
-      "fastDelivery": false,
+      "starCount": 5,
       "soldout": false,
       "isNew": true,
-      "isDeliveryFast": false
+      "isDeliveryFast": false,
+      "details": [
+        {
+          "img": [
+            "../images/productimages/rings/ring1.jpg",
+            "../images/productimages/rings/ring2.jpg",
+            "../images/productimages/rings/ring3.jpg",
+            "../images/productimages/rings/ring4.jpg"
+          ],
+          "offerCount": 10,
+          "availableOffers": [
+            "Bank Offer 5% Cashback on Axis Bank Card",
+            "Special PriceExtra ₹400 off(price inclusive of discount)",
+            "Freebie CoinDCX Get Bitcoin Worth ₹201",
+            "Get Google gift card at just ₹499"
+          ],
+          "metal": "Yellow Gold",
+          "metalPurity": "22KT",
+          "productWeight": "5 g",
+          "metalCertification": "BIS Hallmark",
+          "productCode": "OOOCB00055MM-MCY2017",
+          "brand": "Company Name",
+          "bandwidth": 4,
+          "expectedShippingDate": "15 Apr 2024",
+          "lifetimeExchange": "Applicable",
+          "lifetimeBuyback": "Applicable"
+        }
+      ]
     },
     {
       "id": 4,
@@ -81,11 +155,37 @@
       "productname": "Funky Designer Gold Rings",
       "strikePrice": 32014,
       "price": 29117,
-      "starCount": 4,
-      "fastDelivery": false,
+      "starCount": 3,
       "soldout": false,
       "isNew": true,
-      "isDeliveryFast": true
+      "isDeliveryFast": true,
+      "details": [
+        {
+          "img": [
+            "../images/productimages/rings/ring1.jpg",
+            "../images/productimages/rings/ring2.jpg",
+            "../images/productimages/rings/ring3.jpg",
+            "../images/productimages/rings/ring4.jpg"
+          ],
+          "offerCount": 10,
+          "availableOffers": [
+            "Bank Offer 5% Cashback on Axis Bank Card",
+            "Special PriceExtra ₹400 off(price inclusive of discount)",
+            "Freebie CoinDCX Get Bitcoin Worth ₹201",
+            "Get Google gift card at just ₹499"
+          ],
+          "metal": "Yellow Gold",
+          "metalPurity": "22KT",
+          "productWeight": "5 g",
+          "metalCertification": "BIS Hallmark",
+          "productCode": "OOOCB00055MM-MCY2017",
+          "brand": "Company Name",
+          "bandwidth": 4,
+          "expectedShippingDate": "15 Apr 2024",
+          "lifetimeExchange": "Applicable",
+          "lifetimeBuyback": "Applicable"
+        }
+      ]
     },
     {
       "id": 5,
@@ -95,10 +195,36 @@
       "strikePrice": 23568,
       "price": 21270,
       "starCount": 4,
-      "fastDelivery": false,
       "soldout": false,
       "isNew": true,
-      "isDeliveryFast": false
+      "isDeliveryFast": false,
+      "details": [
+        {
+          "img": [
+            "../images/productimages/rings/ring1.jpg",
+            "../images/productimages/rings/ring2.jpg",
+            "../images/productimages/rings/ring3.jpg",
+            "../images/productimages/rings/ring4.jpg"
+          ],
+          "offerCount": 10,
+          "availableOffers": [
+            "Bank Offer 5% Cashback on Axis Bank Card",
+            "Special PriceExtra ₹400 off(price inclusive of discount)",
+            "Freebie CoinDCX Get Bitcoin Worth ₹201",
+            "Get Google gift card at just ₹499"
+          ],
+          "metal": "Yellow Gold",
+          "metalPurity": "22KT",
+          "productWeight": "5 g",
+          "metalCertification": "BIS Hallmark",
+          "productCode": "OOOCB00055MM-MCY2017",
+          "brand": "Company Name",
+          "bandwidth": 4,
+          "expectedShippingDate": "15 Apr 2024",
+          "lifetimeExchange": "Applicable",
+          "lifetimeBuyback": "Applicable"
+        }
+      ]
     },
     {
       "id": 6,
@@ -108,10 +234,699 @@
       "strikePrice": 18069,
       "price": 13307,
       "starCount": 4,
-      "fastDelivery": false,
       "soldout": false,
       "isNew": false,
-      "isDeliveryFast": false
+      "isDeliveryFast": false,
+      "details": [
+        {
+          "img": [
+            "../images/productimages/rings/ring1.jpg",
+            "../images/productimages/rings/ring2.jpg",
+            "../images/productimages/rings/ring3.jpg",
+            "../images/productimages/rings/ring4.jpg"
+          ],
+          "offerCount": 10,
+          "availableOffers": [
+            "Bank Offer 5% Cashback on Axis Bank Card",
+            "Special PriceExtra ₹400 off(price inclusive of discount)",
+            "Freebie CoinDCX Get Bitcoin Worth ₹201",
+            "Get Google gift card at just ₹499"
+          ],
+          "metal": "Yellow Gold",
+          "metalPurity": "22KT",
+          "productWeight": "5 g",
+          "metalCertification": "BIS Hallmark",
+          "productCode": "OOOCB00055MM-MCY2017",
+          "brand": "Company Name",
+          "bandwidth": 4,
+          "expectedShippingDate": "15 Apr 2024",
+          "lifetimeExchange": "Applicable",
+          "lifetimeBuyback": "Applicable"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "category": "Harams",
+      "imgPath": "../images/productimages/harams/harams1.jpg",
+      "productname": "22kt Gold Chandraharam",
+      "strikePrice": 63595,
+      "price": 62595,
+      "starCount": 3.5,
+      "soldout": false,
+      "isNew": false,
+      "isDeliveryFast": false,
+      "details": [
+        {
+          "img": [
+            "../images/productimages/harams/harams1.jpg",
+            "../images/productimages/harams/harams2.jpg",
+            "../images/productimages/harams/harams3.jpg",
+            "../images/productimages/harams/harams1.jpg"
+          ],
+          "offerCount": 10,
+          "availableOffers": [
+            "Bank Offer 5% Cashback on Axis Bank Card",
+            "Special PriceExtra ₹400 off(price inclusive of discount)",
+            "Freebie CoinDCX Get Bitcoin Worth ₹201",
+            "Get Google gift card at just ₹499"
+          ],
+          "metal": "Yellow Gold",
+          "metalPurity": "22KT",
+          "productWeight": "5 g",
+          "metalCertification": "BIS Hallmark",
+          "productCode": "OOOCB00055MM-MCY2017",
+          "brand": "Company Name",
+          "bandwidth": 4,
+          "expectedShippingDate": "15 Apr 2024",
+          "lifetimeExchange": "Applicable",
+          "lifetimeBuyback": "Applicable"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "category": "Harams",
+      "imgPath": "../images/productimages/harams/harams2.jpg",
+      "productname": "Lord Krishna Gold Haram",
+      "strikePrice": 22650,
+      "price": 20720,
+      "starCount": 4,
+      "soldout": false,
+      "isNew": true,
+      "isDeliveryFast": false,
+      "details": [
+        {
+          "img": [
+            "../images/productimages/harams/harams1.jpg",
+            "../images/productimages/harams/harams2.jpg",
+            "../images/productimages/harams/harams3.jpg",
+            "../images/productimages/harams/harams1.jpg"
+          ],
+          "offerCount": 10,
+          "availableOffers": [
+            "Bank Offer 5% Cashback on Axis Bank Card",
+            "Special PriceExtra ₹400 off(price inclusive of discount)",
+            "Freebie CoinDCX Get Bitcoin Worth ₹201",
+            "Get Google gift card at just ₹499"
+          ],
+          "metal": "Yellow Gold",
+          "metalPurity": "22KT",
+          "productWeight": "5 g",
+          "metalCertification": "BIS Hallmark",
+          "productCode": "OOOCB00055MM-MCY2017",
+          "brand": "Company Name",
+          "bandwidth": 4,
+          "expectedShippingDate": "15 Apr 2024",
+          "lifetimeExchange": "Applicable",
+          "lifetimeBuyback": "Applicable"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "category": "Harams",
+      "imgPath": "../images/productimages/harams/harams3.jpg",
+      "productname": "Classic Kasulu Peru Gold Haram Necklace",
+      "strikePrice": false,
+      "price": 11875,
+      "starCount": 3,
+      "soldout": false,
+      "isNew": false,
+      "isDeliveryFast": true,
+      "details": [
+        {
+          "img": [
+            "../images/productimages/harams/harams1.jpg",
+            "../images/productimages/harams/harams2.jpg",
+            "../images/productimages/harams/harams3.jpg",
+            "../images/productimages/harams/harams1.jpg"
+          ],
+          "offerCount": 10,
+          "availableOffers": [
+            "Bank Offer 5% Cashback on Axis Bank Card",
+            "Special PriceExtra ₹400 off(price inclusive of discount)",
+            "Freebie CoinDCX Get Bitcoin Worth ₹201",
+            "Get Google gift card at just ₹499"
+          ],
+          "metal": "Yellow Gold",
+          "metalPurity": "22KT",
+          "productWeight": "5 g",
+          "metalCertification": "BIS Hallmark",
+          "productCode": "OOOCB00055MM-MCY2017",
+          "brand": "Company Name",
+          "bandwidth": 4,
+          "expectedShippingDate": "15 Apr 2024",
+          "lifetimeExchange": "Applicable",
+          "lifetimeBuyback": "Applicable"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "category": "Necklace",
+      "imgPath": "../images/productimages/necklace/necklace1.jpg",
+      "productname": "Mayura Lakshmi Gold Necklace",
+      "strikePrice": 64560,
+      "price": 63096,
+      "starCount": 3,
+      "soldout": false,
+      "isNew": false,
+      "isDeliveryFast": true,
+      "details": [
+        {
+          "img": [
+            "../images/productimages/necklace/necklace1.jpg",
+            "../images/productimages/necklace/necklace2.jpg",
+            "../images/productimages/necklace/necklace1.jpg",
+            "../images/productimages/necklace/necklace2.jpg"
+          ],
+          "offerCount": 10,
+          "availableOffers": [
+            "Bank Offer 5% Cashback on Axis Bank Card",
+            "Special PriceExtra ₹400 off(price inclusive of discount)",
+            "Freebie CoinDCX Get Bitcoin Worth ₹201",
+            "Get Google gift card at just ₹499"
+          ],
+          "metal": "Yellow Gold",
+          "metalPurity": "22KT",
+          "productWeight": "5 g",
+          "metalCertification": "BIS Hallmark",
+          "productCode": "OOOCB00055MM-MCY2017",
+          "brand": "Company Name",
+          "bandwidth": 4,
+          "expectedShippingDate": "15 Apr 2024",
+          "lifetimeExchange": "Applicable",
+          "lifetimeBuyback": "Applicable"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "category": "Necklace",
+      "imgPath": "../images/productimages/necklace/necklace2.jpg",
+      "productname": "Goddess Lakshmi Gold Necklace",
+      "strikePrice": 14321,
+      "price": 11321,
+      "starCount": 3,
+      "soldout": false,
+      "isNew": true,
+      "isDeliveryFast": false,
+      "details": [
+        {
+          "img": [
+            "../images/productimages/necklace/necklace1.jpg",
+            "../images/productimages/necklace/necklace2.jpg",
+            "../images/productimages/necklace/necklace1.jpg",
+            "../images/productimages/necklace/necklace2.jpg"
+          ],
+          "offerCount": 10,
+          "availableOffers": [
+            "Bank Offer 5% Cashback on Axis Bank Card",
+            "Special PriceExtra ₹400 off(price inclusive of discount)",
+            "Freebie CoinDCX Get Bitcoin Worth ₹201",
+            "Get Google gift card at just ₹499"
+          ],
+          "metal": "Yellow Gold",
+          "metalPurity": "22KT",
+          "productWeight": "5 g",
+          "metalCertification": "BIS Hallmark",
+          "productCode": "OOOCB00055MM-MCY2017",
+          "brand": "Company Name",
+          "bandwidth": 4,
+          "expectedShippingDate": "15 Apr 2024",
+          "lifetimeExchange": "Applicable",
+          "lifetimeBuyback": "Applicable"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "category": "Antique",
+      "imgPath": "../images/productimages/antique/antique1.jpg",
+      "productname": "Arpana Antique Necklace Set",
+      "strikePrice": 3896,
+      "price": 2979,
+      "starCount": 3,
+      "soldout": false,
+      "isNew": true,
+      "isDeliveryFast": false,
+      "details": [
+        {
+          "img": [
+            "../images/productimages/antique/antique1.jpg",
+            "../images/productimages/antique/antique2.jpg",
+            "../images/productimages/antique/antique3.jpg",
+            "../images/productimages/antique/antique1.jpg"
+          ],
+          "offerCount": 10,
+          "availableOffers": [
+            "Bank Offer 5% Cashback on Axis Bank Card",
+            "Special PriceExtra ₹400 off(price inclusive of discount)",
+            "Freebie CoinDCX Get Bitcoin Worth ₹201",
+            "Get Google gift card at just ₹499"
+          ],
+          "metal": "Yellow Gold",
+          "metalPurity": "22KT",
+          "productWeight": "5 g",
+          "metalCertification": "BIS Hallmark",
+          "productCode": "OOOCB00055MM-MCY2017",
+          "brand": "Company Name",
+          "bandwidth": 4,
+          "expectedShippingDate": "15 Apr 2024",
+          "lifetimeExchange": "Applicable",
+          "lifetimeBuyback": "Applicable"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "category": "Antique",
+      "imgPath": "../images/productimages/antique/antique2.jpg",
+      "productname": "Drisana Antique Choker Set",
+      "strikePrice": 5680,
+      "price": 4779,
+      "starCount": 3,
+      "soldout": false,
+      "isNew": false,
+      "isDeliveryFast": true,
+      "details": [
+        {
+          "img": [
+            "../images/productimages/antique/antique1.jpg",
+            "../images/productimages/antique/antique2.jpg",
+            "../images/productimages/antique/antique3.jpg",
+            "../images/productimages/antique/antique1.jpg"
+          ],
+          "offerCount": 10,
+          "availableOffers": [
+            "Bank Offer 5% Cashback on Axis Bank Card",
+            "Special PriceExtra ₹400 off(price inclusive of discount)",
+            "Freebie CoinDCX Get Bitcoin Worth ₹201",
+            "Get Google gift card at just ₹499"
+          ],
+          "metal": "Yellow Gold",
+          "metalPurity": "22KT",
+          "productWeight": "5 g",
+          "metalCertification": "BIS Hallmark",
+          "productCode": "OOOCB00055MM-MCY2017",
+          "brand": "Company Name",
+          "bandwidth": 4,
+          "expectedShippingDate": "15 Apr 2024",
+          "lifetimeExchange": "Applicable",
+          "lifetimeBuyback": "Applicable"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "category": "Antique",
+      "imgPath": "../images/productimages/antique/antique3.jpg",
+      "productname": "Gatha Antique Bangles",
+      "strikePrice": 5680,
+      "price": 4779,
+      "starCount": 3,
+      "soldout": false,
+      "isNew": true,
+      "isDeliveryFast": false,
+      "details": [
+        {
+          "img": [
+            "../images/productimages/antique/antique1.jpg",
+            "../images/productimages/antique/antique2.jpg",
+            "../images/productimages/antique/antique3.jpg",
+            "../images/productimages/antique/antique1.jpg"
+          ],
+          "offerCount": 10,
+          "availableOffers": [
+            "Bank Offer 5% Cashback on Axis Bank Card",
+            "Special PriceExtra ₹400 off(price inclusive of discount)",
+            "Freebie CoinDCX Get Bitcoin Worth ₹201",
+            "Get Google gift card at just ₹499"
+          ],
+          "metal": "Yellow Gold",
+          "metalPurity": "22KT",
+          "productWeight": "5 g",
+          "metalCertification": "BIS Hallmark",
+          "productCode": "OOOCB00055MM-MCY2017",
+          "brand": "Company Name",
+          "bandwidth": 4,
+          "expectedShippingDate": "15 Apr 2024",
+          "lifetimeExchange": "Applicable",
+          "lifetimeBuyback": "Applicable"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "category": "Earrings",
+      "imgPath": "../images/productimages/earrings/earrings1.jpg",
+      "productname": "22Kt Royal Chandbali Gold Earrings",
+      "strikePrice": 85698,
+      "price": 83312,
+      "starCount": 3,
+      "soldout": false,
+      "isNew": true,
+      "isDeliveryFast": false,
+      "details": [
+        {
+          "img": [
+            "../images/productimages/earrings/earrings1.jpg",
+            "../images/productimages/earrings/earrings2.jpg",
+            "../images/productimages/earrings/earrings3.jpg",
+            "../images/productimages/earrings/earrings1.jpg"
+          ],
+          "offerCount": 10,
+          "availableOffers": [
+            "Bank Offer 5% Cashback on Axis Bank Card",
+            "Special PriceExtra ₹400 off(price inclusive of discount)",
+            "Freebie CoinDCX Get Bitcoin Worth ₹201",
+            "Get Google gift card at just ₹499"
+          ],
+          "metal": "Yellow Gold",
+          "metalPurity": "22KT",
+          "productWeight": "5 g",
+          "metalCertification": "BIS Hallmark",
+          "productCode": "OOOCB00055MM-MCY2017",
+          "brand": "Company Name",
+          "bandwidth": 4,
+          "expectedShippingDate": "15 Apr 2024",
+          "lifetimeExchange": "Applicable",
+          "lifetimeBuyback": "Applicable"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "category": "Earrings",
+      "imgPath": "../images/productimages/earrings/earrings2.jpg",
+      "productname": "14k Fancy Gold Earrings",
+      "strikePrice": 16598,
+      "price": 15751,
+      "starCount": 3,
+      "soldout": false,
+      "isNew": true,
+      "isDeliveryFast": true,
+      "details": [
+        {
+          "img": [
+            "../images/productimages/earrings/earrings1.jpg",
+            "../images/productimages/earrings/earrings2.jpg",
+            "../images/productimages/earrings/earring3.jpg",
+            "../images/productimages/earrings/earrings1.jpg"
+          ],
+          "offerCount": 10,
+          "availableOffers": [
+            "Bank Offer 5% Cashback on Axis Bank Card",
+            "Special PriceExtra ₹400 off(price inclusive of discount)",
+            "Freebie CoinDCX Get Bitcoin Worth ₹201",
+            "Get Google gift card at just ₹499"
+          ],
+          "metal": "Yellow Gold",
+          "metalPurity": "22KT",
+          "productWeight": "5 g",
+          "metalCertification": "BIS Hallmark",
+          "productCode": "OOOCB00055MM-MCY2017",
+          "brand": "Company Name",
+          "bandwidth": 4,
+          "expectedShippingDate": "15 Apr 2024",
+          "lifetimeExchange": "Applicable",
+          "lifetimeBuyback": "Applicable"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "category": "Earrings",
+      "imgPath": "../images/productimages/earrings/earrings3.jpg",
+      "productname": "Butterfly CZ Gold Stud Earrings",
+      "strikePrice": 19685,
+      "price": 17551,
+      "starCount": 3,
+      "soldout": false,
+      "isNew": false,
+      "isDeliveryFast": true,
+      "details": [
+        {
+          "img": [
+            "../images/productimages/earrings/earrings1.jpg",
+            "../images/productimages/earrings/earrings2.jpg",
+            "../images/productimages/earrings/earrings3.jpg",
+            "../images/productimages/earrings/earrings1.jpg"
+          ],
+          "offerCount": 10,
+          "availableOffers": [
+            "Bank Offer 5% Cashback on Axis Bank Card",
+            "Special PriceExtra ₹400 off(price inclusive of discount)",
+            "Freebie CoinDCX Get Bitcoin Worth ₹201",
+            "Get Google gift card at just ₹499"
+          ],
+          "metal": "Yellow Gold",
+          "metalPurity": "22KT",
+          "productWeight": "5 g",
+          "metalCertification": "BIS Hallmark",
+          "productCode": "OOOCB00055MM-MCY2017",
+          "brand": "Company Name",
+          "bandwidth": 4,
+          "expectedShippingDate": "15 Apr 2024",
+          "lifetimeExchange": "Applicable",
+          "lifetimeBuyback": "Applicable"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "category": "Bangles",
+      "imgPath": "../images/productimages/bangles/bangles1.jpg",
+      "productname": "22kt Gold Rhodium Bangles",
+      "strikePrice": 48605,
+      "price": 45827,
+      "starCount": 3,
+      "soldout": false,
+      "isNew": false,
+      "isDeliveryFast": false,
+      "details": [
+        {
+          "img": [
+            "../images/productimages/bangles/bangles1jpg",
+            "../images/productimages/bangles/bangles2jpg",
+            "../images/productimages/bangles/bangles3jpg",
+            "../images/productimages/bangles/bangles1jpg"
+          ],
+          "offerCount": 10,
+          "availableOffers": [
+            "Bank Offer 5% Cashback on Axis Bank Card",
+            "Special PriceExtra ₹400 off(price inclusive of discount)",
+            "Freebie CoinDCX Get Bitcoin Worth ₹201",
+            "Get Google gift card at just ₹499"
+          ],
+          "metal": "Yellow Gold",
+          "metalPurity": "22KT",
+          "productWeight": "5 g",
+          "metalCertification": "BIS Hallmark",
+          "productCode": "OOOCB00055MM-MCY2017",
+          "brand": "Company Name",
+          "bandwidth": 4,
+          "expectedShippingDate": "15 Apr 2024",
+          "lifetimeExchange": "Applicable",
+          "lifetimeBuyback": "Applicable"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "category": "Bangles",
+      "imgPath": "../images/productimages/bangles/bangles2.jpg",
+      "productname": "Arangetram Gold Bangle",
+      "strikePrice": false,
+      "price": 44591,
+      "starCount": 3,
+      "soldout": false,
+      "isNew": true,
+      "isDeliveryFast": true,
+      "details": [
+        {
+          "img": [
+            "../images/productimages/bangles/bangles1jpg",
+            "../images/productimages/bangles/bangles2jpg",
+            "../images/productimages/bangles/bangles3jpg",
+            "../images/productimages/bangles/bangles1jpg"
+          ],
+          "offerCount": 10,
+          "availableOffers": [
+            "Bank Offer 5% Cashback on Axis Bank Card",
+            "Special PriceExtra ₹400 off(price inclusive of discount)",
+            "Freebie CoinDCX Get Bitcoin Worth ₹201",
+            "Get Google gift card at just ₹499"
+          ],
+          "metal": "Yellow Gold",
+          "metalPurity": "22KT",
+          "productWeight": "5 g",
+          "metalCertification": "BIS Hallmark",
+          "productCode": "OOOCB00055MM-MCY2017",
+          "brand": "Company Name",
+          "bandwidth": 4,
+          "expectedShippingDate": "15 Apr 2024",
+          "lifetimeExchange": "Applicable",
+          "lifetimeBuyback": "Applicable"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "category": "Bangles",
+      "imgPath": "../images/productimages/bangles/bangles3.jpg",
+      "productname": "Sophisticated Ruby Gold Bangles",
+      "strikePrice": 14503,
+      "price": 14098,
+      "starCount": 3,
+      "soldout": false,
+      "isNew": true,
+      "isDeliveryFast": false,
+      "details": [
+        {
+          "img": [
+            "../images/productimages/bangles/bangles1jpg",
+            "../images/productimages/bangles/bangles2jpg",
+            "../images/productimages/bangles/bangles3jpg",
+            "../images/productimages/bangles/bangles1jpg"
+          ],
+          "offerCount": 10,
+          "availableOffers": [
+            "Bank Offer 5% Cashback on Axis Bank Card",
+            "Special PriceExtra ₹400 off(price inclusive of discount)",
+            "Freebie CoinDCX Get Bitcoin Worth ₹201",
+            "Get Google gift card at just ₹499"
+          ],
+          "metal": "Yellow Gold",
+          "metalPurity": "22KT",
+          "productWeight": "5 g",
+          "metalCertification": "BIS Hallmark",
+          "productCode": "OOOCB00055MM-MCY2017",
+          "brand": "Company Name",
+          "bandwidth": 4,
+          "expectedShippingDate": "15 Apr 2024",
+          "lifetimeExchange": "Applicable",
+          "lifetimeBuyback": "Applicable"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "category": "Bracelets",
+      "imgPath": "../images/productimages/bracelets/bracelets1.jpg",
+      "productname": "Casting gold ladies bracelet1",
+      "strikePrice": 80563,
+      "price": 76011,
+      "starCount": 3,
+      "soldout": false,
+      "isNew": true,
+      "isDeliveryFast": true,
+      "details": [
+        {
+          "img": [
+            "../images/productimages/bracelets/bracelets1.jpg",
+            "../images/productimages/bracelets/bracelets2.jpg",
+            "../images/productimages/bracelets/bracelets3.jpg",
+            "../images/productimages/bracelets/bracelets1.jpg"
+          ],
+          "offerCount": 10,
+          "availableOffers": [
+            "Bank Offer 5% Cashback on Axis Bank Card",
+            "Special PriceExtra ₹400 off(price inclusive of discount)",
+            "Freebie CoinDCX Get Bitcoin Worth ₹201",
+            "Get Google gift card at just ₹499"
+          ],
+          "metal": "Yellow Gold",
+          "metalPurity": "22KT",
+          "productWeight": "5 g",
+          "metalCertification": "BIS Hallmark",
+          "productCode": "OOOCB00055MM-MCY2017",
+          "brand": "Company Name",
+          "bandwidth": 4,
+          "expectedShippingDate": "15 Apr 2024",
+          "lifetimeExchange": "Applicable",
+          "lifetimeBuyback": "Applicable"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "category": "Bracelets",
+      "imgPath": "../images/productimages/bracelets/bracelets2.jpg",
+      "productname": "Casting gold ladies bracelet2",
+      "strikePrice": false,
+      "price": 10185,
+      "starCount": 3,
+      "soldout": false,
+      "isNew": true,
+      "isDeliveryFast": false,
+      "details": [
+        {
+          "img": [
+            "../images/productimages/bracelets/bracelets1.jpg",
+            "../images/productimages/bracelets/bracelets2.jpg",
+            "../images/productimages/bracelets/bracelets3.jpg",
+            "../images/productimages/bracelets/bracelets1.jpg"
+          ],
+          "offerCount": 10,
+          "availableOffers": [
+            "Bank Offer 5% Cashback on Axis Bank Card",
+            "Special PriceExtra ₹400 off(price inclusive of discount)",
+            "Freebie CoinDCX Get Bitcoin Worth ₹201",
+            "Get Google gift card at just ₹499"
+          ],
+          "metal": "Yellow Gold",
+          "metalPurity": "22KT",
+          "productWeight": "5 g",
+          "metalCertification": "BIS Hallmark",
+          "productCode": "OOOCB00055MM-MCY2017",
+          "brand": "Company Name",
+          "bandwidth": 4,
+          "expectedShippingDate": "15 Apr 2024",
+          "lifetimeExchange": "Applicable",
+          "lifetimeBuyback": "Applicable"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "category": "Bracelets",
+      "imgPath": "../images/productimages/bracelets/bracelets3.jpg",
+      "productname": "Casting gold ladies bracelet3",
+      "strikePrice": 66598,
+      "price": 64375,
+      "starCount": 3,
+      "soldout": false,
+      "isNew": false,
+      "isDeliveryFast": true,
+      "details": [
+        {
+          "img": [
+            "../images/productimages/bracelets/bracelets1.jpg",
+            "../images/productimages/bracelets/bracelets2.jpg",
+            "../images/productimages/bracelets/bracelets3.jpg",
+            "../images/productimages/bracelets/bracelets1.jpg"
+          ],
+          "offerCount": 10,
+          "availableOffers": [
+            "Bank Offer 5% Cashback on Axis Bank Card",
+            "Special PriceExtra ₹400 off(price inclusive of discount)",
+            "Freebie CoinDCX Get Bitcoin Worth ₹201",
+            "Get Google gift card at just ₹499"
+          ],
+          "metal": "Yellow Gold",
+          "metalPurity": "22KT",
+          "productWeight": "5 g",
+          "metalCertification": "BIS Hallmark",
+          "productCode": "OOOCB00055MM-MCY2017",
+          "brand": "Company Name",
+          "bandwidth": 4,
+          "expectedShippingDate": "15 Apr 2024",
+          "lifetimeExchange": "Applicable",
+          "lifetimeBuyback": "Applicable"
+        }
+      ]
     }
   ]
 }
